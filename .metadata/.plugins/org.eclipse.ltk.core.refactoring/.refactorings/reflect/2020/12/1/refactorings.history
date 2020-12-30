@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.cos.reflect.controller.dto.UserDto&apos; to &apos;LoginDto&apos;&#x0D;&#x0A;- Original project: &apos;reflect&apos;&#x0D;&#x0A;- Original element: &apos;com.cos.reflect.controller.dto.UserDto&apos;&#x0D;&#x0A;- Renamed element: &apos;com.cos.reflect.controller.dto.LoginDto&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UserDto&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.cos.reflect.controller.dto{UserDto.java[UserDto" matchStrategy="1" name="LoginDto" qualified="false" references="true" similarDeclarations="false" stamp="1609311032642" textual="false" version="1.0"/>
+</session>
